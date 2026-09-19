@@ -13,6 +13,6 @@ python -m streamlit run app.py
 
 실행 후 브라우저에서 민원 분석 대시보드를 확인할 수 있습니다.
 
-KoBERT 분류 모델을 학습: python train_kobert.py
+KoBERT 분류 모델 학습: python train_kobert.py
 
 테스트 데이터는 data/test_complaints.csv에 포함되어 있습니다.
